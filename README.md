@@ -51,17 +51,10 @@ This project demonstrates a simple yet effective approach to collaborative filte
 - scikit-learn
 
 Install dependencies with:
-<pre>
-```bash
-pip install pandas numpy scikit-learn
-</pre>
+<pre> ```bash pip install pandas numpy scikit-learn ``` </pre>
 
 ## 🧪 Usage Example
-<pre>
-```python
-recommendations = get_recommends("The Hobbit")
-print(recommendations)
-</pre>
+<pre> ```python recommendations = get_recommends("The Hobbit") print(recommendations) ``` </pre>
 
 ## 📎 License
 This project is open-source and free to use under the [MIT License](https://mit-license.org/).
