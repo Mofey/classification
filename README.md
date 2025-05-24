@@ -61,5 +61,8 @@ recommendations = get_recommends("The Hobbit")
 print(recommendations)
 ```
 
+## 🏷️ Project Origin
+This project is a solution to a [freeCodeCamp](https://www.freecodecamp.org/) classification project challenge.
+
 ## 📎 License
 This project is open-source and free to use under the [MIT License](https://mit-license.org/).
